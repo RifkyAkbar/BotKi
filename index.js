@@ -20,7 +20,7 @@ const info = require("./lib/info.js");
 /////////////////
 const BotName = 'Rifky Bot'; 
 const instagram = 'https://instagram.com/Kamaadoo_tanjiroo'; 
-const whatsapp = 'wa.me/628985667090'; 
+const whatsapp = 'wa.me/6281368965962'; 
 const kapanbotaktif = '24 JAM'; 
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
