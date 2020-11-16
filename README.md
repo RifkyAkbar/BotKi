@@ -1,4 +1,4 @@
-## Alf Bot
+## Akbar Bot
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
