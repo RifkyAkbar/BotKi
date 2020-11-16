@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alfiansx/alfbot"
+    "url": "git+https://github.com/RifkyAkbar/BotKi"
   },
   "keywords": [
     "k"
@@ -43,7 +43,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alfiansx/alfbot/issues"
+    "url": "https://github.com/RifkyAkbar/BotKi/issues"
   },
-  "homepage": "https://github.com/alfiansx/alfbot#readme"
+  "homepage": "https://github.com/RifkyAkbar/Botki#readme"
 }
